@@ -1,0 +1,11 @@
+  Option: --language-force=php
+  Option: --php-kinds=icdfvj
+Reading command line arguments
+OPENING /tmp/v6a6kgT/731.php as PHP language file
+Product	/tmp/v6a6kgT/731.php	/^class Product extends Model$/;"	c	line:7
+table	/tmp/v6a6kgT/731.php	/^  protected $table = 'products';$/;"	v	line:9
+fillable	/tmp/v6a6kgT/731.php	/^  protected $fillable = [$/;"	v	line:10
+category	/tmp/v6a6kgT/731.php	/^  public function category()$/;"	f	line:28
+user	/tmp/v6a6kgT/731.php	/^  public function user()$/;"	f	line:33
+tags	/tmp/v6a6kgT/731.php	/^  public function tags()$/;"	f	line:43
+orders	/tmp/v6a6kgT/731.php	/^  public function orders()$/;"	f	line:47
